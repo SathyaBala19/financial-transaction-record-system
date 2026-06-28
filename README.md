@@ -1,6 +1,3 @@
-# financial-transaction-record-system
-A Java-based system to manage financial transactions including deposits, withdrawals, and transfers
-
 # Financial Transaction Record System (FTRS)
 
 A Java-based financial transaction management system that handles deposits, withdrawals, transfers, and account summaries with full validation and error handling.
@@ -67,5 +64,4 @@ TRANSFER - 2000.0 | Transfer to A002
 ---
 
 ## Author
-
 **Sathya Bala B** 
