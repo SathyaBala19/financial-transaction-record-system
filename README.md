@@ -69,4 +69,3 @@ TRANSFER - 2000.0 | Transfer to A002
 ## Author
 
 **Sathya Bala B** 
-```
